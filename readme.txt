@@ -8,3 +8,4 @@ Begin remote reposity
 .......................................
 
 Creating a new branch is quick AND simple.
+Will merge using no-ff.
