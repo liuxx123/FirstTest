@@ -7,4 +7,4 @@ Git tracks changes of files.
 Begin remote reposity
 .......................................
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
